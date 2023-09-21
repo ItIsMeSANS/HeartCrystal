@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:kelp"
+    },
+    "$":{
+      "item": "minecraft:chorus_fruit"
+    },
+    "%": {
+      "item": "minecraft:snowball"
+    }
+  },
+  "pattern": [
+    "#$#",
+    "$%$",
+    "#$#"
+  ],
+  "result": {
+    "item": "minecraft:ender_pearl"
+  },
+  "show_notification": true
+}
